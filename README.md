@@ -16,7 +16,7 @@
 <h2 align="center">💼 Open to Work</h2>
 
 
-<p align="left">As I am still in quest of learning and professionalizing myself in Backend Development and Cybersecurity in the long run, if you are looking for a passionate Paid Apprentice or a Junior Dev who loves to learn in France or in EU, contact me!</p>
+<p align="left">I am still in quest of learning and professionalizing myself in Backend Development and Cybersecurity in the long run. So if you are in France or in EU and looking for a passionate Paid Apprentice or a Junior Dev who loves to learn, contact me!</p>
 
 ---
 
