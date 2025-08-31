@@ -8,7 +8,7 @@
   - 👥 Ex-Community Manager<br>
   - 🖥️ Reconverting to Software Engineering / Cybersecurity<br>
   - 👾 Indie GameDev who never finished a project <br>
-  - 🖋️ Pentesting Enthusiast<br>- 🐧 i use arch btw
+  - 🖋️ Pentesting Enthusiast<br>- 🐧 <em>i use arch btw</em>
 </p>
 
 ###
