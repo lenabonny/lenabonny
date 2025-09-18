@@ -6,17 +6,10 @@
 <p align="left">
   - 📹 Ex-Actress & Digital Creator<br>
   - 👥 Ex-Community Manager<br>
-  - 🖥️ Reconverting to Software Engineering / Cybersecurity<br>
+  - 🖥️ Reconverting professionnally to Development (Web or Software)<br>
   - 👾 Indie GameDev who never finished a project <br>
-  - 🖋️ Pentesting Enthusiast<br>- 🐧 <em>i use arch btw</em>
+  - 🐧 <em>i use arch btw</em>
 </p>
-
-###
-
-<h2 align="center">💼 Open to Work</h2>
-
-
-<p align="left">I am still in quest of learning and professionalizing myself in Backend Development and Cybersecurity in the long run. So if you are in France or in EU and looking for a passionate Paid Apprentice or a Junior Dev who loves to learn, contact me!</p>
 
 ---
 
